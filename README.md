@@ -6,10 +6,11 @@
 </p>
 
 - 🔧 Currently building with **React, Next.js, Node.js, TypeScript, and MongoDB**
-- 🤖 Exploring real-world use cases with **AI** and **blockchain**
+- 🤖 Exploring real-world use cases with **AI**, building **on-chain AI agents** and decentralized apps (**DApps**)
+- 🔗 Passionate about combining **blockchain** and AI to create smarter, trustless systems
 - 🎨 Crafting sleek UIs using **Tailwind CSS** and **Framer Motion**
-- 🧠 Occasionally tinkering with **BCI**, because curiosity
-- 💬 Always open to collaboration, ideas, and learning from cool devs
+- 🧠 Occasionally tinkering with **BCI**, because curiosity keeps things interesting
+- 💬 Always open to collaboration, big ideas, or just geeking out with fellow devs
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
