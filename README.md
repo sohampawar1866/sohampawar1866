@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Soham Pawar</h1>
+<h1 align="center">Hello world, I'm Soham Pawar 🌍</h1>
 <h3 align="center">Full-stack dev exploring ideas, breaking builds, and connecting the digital dots</h3>
 
 <p align="left">
