@@ -21,7 +21,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
   </a>
   <a href="https://sohampawar.me/" target="blank">
-    <img align="center" src="https://avatars.githubusercontent.com/u/102029708?v=4" height="30" width="30" style="border-radius: 50%;" alt="My Website" />
+    <img align="center" src="https://avatars.githubusercontent.com/u/178253448" height="30" width="30" style="border-radius: 50%;" alt="My Website" />
   </a>
 </p>
 
