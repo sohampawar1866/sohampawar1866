@@ -20,9 +20,7 @@
   <a href="https://twitter.com/sohampawar1866" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
   </a>
-  <a href="https://sohampawar.me/" target="blank">
-    <img align="center" src="https://avatars.githubusercontent.com/u/178253448" height="30" width="30" style="border-radius: 50%;" alt="My Website" />
-  </a>
+
 </p>
 
 <h3 align="left">Languages & Tools I Use:</h3>
