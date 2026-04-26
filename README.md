@@ -8,7 +8,7 @@ ECE @ IIIT Nagpur · Co-Lead, CRISPR Club · Solo indie dev
 
 ---
 
-I build things that actually ship. Campus tools used by real students, indie apps for developed markets, infra I self-host because I want to understand every layer.
+I build things that actually ship. Indie apps for developed markets, campus tools used by real students, infra I self-host because I want to understand every layer.
 
 **Currently working on**
 
