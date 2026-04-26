@@ -2,7 +2,7 @@
 
 # Soham Pawar
 
-**CS @ IIIT Nagpur · Indie Dev · Co-Lead @ CRISPR Club**
+**ECE @ IIIT Nagpur · Indie Dev · Co-Lead @ CRISPR Club**
 
 I build things that ship — campus tools used by real students, apps targeting developed markets, and infra I self-host because I want to understand every layer.
 
