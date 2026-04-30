@@ -1,10 +1,10 @@
 <h2>Soham Pawar</h2>
-
 ECE @ IIIT Nagpur · Co-Lead, CRISPR Club · Solo indie dev
 
 ![Profile views](https://komarev.com/ghpvc/?username=sohampawar1866&color=0e75b6&style=flat-square&label=views)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sohampawar1866-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sohampawar1866/)
-[![Twitter](https://img.shields.io/badge/Twitter-sohampawar1866-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/sohampawar1866)
+[![Twitter](https://img.shields.io/badge/Twitter-SohamPawar1866-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/SohamPawar1866)
+[![npm](https://img.shields.io/badge/npm-remote--claude-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/package/@sohampawar1866/remote-claude)
 
 ---
 
@@ -17,7 +17,11 @@ I build things that actually ship. Indie apps for developed markets, campus tool
 
 **Shipped**
 
-- **IIITN Smart** — Flutter campus app used by students at IIIT Nagpur. Built a night canteen pre-payment system inside it using cryptographically signed QR codes for offline redemption
+- **[remote-claude](https://github.com/sohampawar1866/claude-remote-runner)** ⭐ 11 — CLI + PWA to control Claude Code from your phone. WebRTC P2P terminal mirroring, AES-256-GCM E2E encryption, QR-code pairing, push notifications. Published on npm.
+- **[E-Votrix](https://github.com/sohampawar1866/E-Votrix)** — Blockchain voting dApp on Ethereum Sepolia. Solidity smart contracts, Aadhar-based voter auth, MetaMask + Next.js 15 frontend. Live at [evotrix.sohampawar.me](https://evotrix.sohampawar.me)
+- **IIITN Smart** — Flutter campus app used by students at IIIT Nagpur. Built a night canteen pre-payment system with cryptographically signed QR codes for offline redemption
+- **[SafetyBeacon](https://github.com/sohampawar1866/SafetyBeacon)** — Real-time alerts and safe zone mapping for civilians in conflict zones. Built at Code White hackathon
+- **[Project Sentinel](https://github.com/sohampawar1866/Project-Sentinal)** — AI-powered ocean protection system with real-time pollution and ship detection
 - **Claude Solvathon + Analytica** — organised both events at TantraFiesta '25 under CRISPR Club
 - **Sankalp Bharat 2026** — 20h hackathon, built a Sustainable Urban Mobility Platform with multi-modal routing and carbon-aware optimisation
 
@@ -34,6 +38,8 @@ Appwrite + Supabase on Docker Compose · Tailscale/Headscale VPN · DigitalOcean
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=flat-square&logo=appwrite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
