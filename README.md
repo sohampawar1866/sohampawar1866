@@ -12,7 +12,6 @@ I build things that actually ship. Indie apps for developed markets, campus tool
 
 **Currently working on**
 
-- [AlumniInsights](https://github.com/sohampawar1866) — student to alumni network, actively in progress
 - Indie apps targeting UK / AU / CA / DE — one-time payment model, anonymous distribution
 - **Vibe Launch** — multi-agent pipeline that reads a deployed codebase and automates post-launch marketing
 
