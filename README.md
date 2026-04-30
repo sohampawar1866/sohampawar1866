@@ -12,18 +12,18 @@ I build things that actually ship. Indie apps for developed markets, campus tool
 
 **Currently working on**
 
-- Indie apps targeting UK / AU / CA / DE — one-time payment model, anonymous distribution
-- **Vibe Launch** — multi-agent pipeline that reads a deployed codebase and automates post-launch marketing
+- Indie apps targeting UK / AU / CA / DE - one-time payment model, anonymous distribution
+- **Vibe Launch** - multi-agent pipeline that reads a deployed codebase and automates post-launch marketing
 
 **Shipped**
 
-- **[remote-claude](https://github.com/sohampawar1866/claude-remote-runner)** ⭐ 11 — CLI + PWA to control Claude Code from your phone. WebRTC P2P terminal mirroring, AES-256-GCM E2E encryption, QR-code pairing, push notifications. Published on npm.
-- **[E-Votrix](https://github.com/sohampawar1866/E-Votrix)** — Blockchain voting dApp on Ethereum Sepolia. Solidity smart contracts, Aadhar-based voter auth, MetaMask + Next.js 15 frontend. Live at [evotrix.sohampawar.me](https://evotrix.sohampawar.me)
-- **IIITN Smart** — Flutter campus app used by students at IIIT Nagpur. Built a night canteen pre-payment system with cryptographically signed QR codes for offline redemption
-- **[SafetyBeacon](https://github.com/sohampawar1866/SafetyBeacon)** — Real-time alerts and safe zone mapping for civilians in conflict zones. Built at Code White hackathon
-- **[Project Sentinel](https://github.com/sohampawar1866/Project-Sentinal)** — AI-powered ocean protection system with real-time pollution and ship detection
-- **Claude Solvathon + Analytica** — organised both events at TantraFiesta '25 under CRISPR Club
-- **Sankalp Bharat 2026** — 20h hackathon, built a Sustainable Urban Mobility Platform with multi-modal routing and carbon-aware optimisation
+- **[remote-claude](https://github.com/sohampawar1866/claude-remote-runner)** ⭐ 11 - CLI + PWA to control Claude Code from your phone. WebRTC P2P terminal mirroring, AES-256-GCM E2E encryption, QR-code pairing, push notifications. Published on npm.
+- **[E-Votrix](https://github.com/sohampawar1866/E-Votrix)** - Blockchain voting dApp on Ethereum Sepolia. Solidity smart contracts, Aadhar-based voter auth, MetaMask + Next.js 15 frontend. Live at [evotrix.sohampawar.me](https://evotrix.sohampawar.me)
+- **IIITN Smart** - Flutter campus app used by students at IIIT Nagpur. Built a night canteen pre-payment system with cryptographically signed QR codes for offline redemption
+- **[SafetyBeacon](https://github.com/sohampawar1866/SafetyBeacon)** - Real-time alerts and safe zone mapping for civilians in conflict zones. Built at Code White hackathon
+- **[Project Sentinel](https://github.com/sohampawar1866/Project-Sentinal)** - AI-powered ocean protection system with real-time pollution and ship detection
+- **Claude Solvathon + Analytica** - organised both events at TantraFiesta '25 under CRISPR Club
+- **Sankalp Bharat 2026** - 20h hackathon, built a Sustainable Urban Mobility Platform with multi-modal routing and carbon-aware optimisation
 
 **Infra I run**
 
