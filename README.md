@@ -44,13 +44,3 @@ Appwrite + Supabase on Docker Compose · Tailscale/Headscale VPN · DigitalOcean
 ![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=flat-square&logo=appwrite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sohampawar1866&show_icons=true&hide_border=true&theme=default" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sohampawar1866&layout=compact&hide_border=true&theme=default" height="150"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohampawar1866&hide_border=true" height="150"/>
-</p>
